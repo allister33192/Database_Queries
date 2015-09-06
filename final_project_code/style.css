@@ -1,0 +1,83 @@
+html {
+  background-color:#2EB9B3;
+  font-family:Lucida Sans;
+  font-size:11pt;
+}
+
+option {
+  font-size: 11pt;
+}
+
+table.menu {
+  width: 100%;
+  padding:0px;
+  margin-top:0px;
+  background-color:#009F9A;
+  border-color:#009F9A;
+  border-width:thin;
+  border-style:solid;
+  font-size:10pt;
+}
+
+table.menu td {
+  border-color:#009F9A;
+  border-width:thin;
+  border-style:solid;
+}
+
+table.header-table {
+  margin-top:0px;
+  padding:15px;
+  font-family:Lucida Sans;
+  background-color:#F2F5F6;
+  font-size:11pt;
+  width: 100%;
+  align: center;
+}
+
+table.main-table {
+  margin-top:0px;
+  padding:0px;
+  font-family:Lucida Sans;
+  background-color:#F2F5F6;
+  font-size:11pt;
+  width: 100%;
+  align: center;
+}
+
+table.recipe {
+  width: 100%;
+  padding:0px;
+  margin-top:0px;
+  border-color:#DADCDD;
+  border-width:thin;
+  border-style:solid;
+  background-color:#FFFFFF;
+  font-size:11pt;
+}
+
+tr {
+  width:98%;
+}
+
+td {
+  padding:3px;
+  vertical-align:top;
+  border-color:#009F9A;
+}
+
+input[type="submit"] {
+  background-color:#009F9A;
+  color:#ffffff;
+  font-size:11pt;
+  box-shadow:1px;
+  border: 1px solid #1A334C;
+}
+
+button {
+  background-color:#009F9A;
+  color:#ffffff;
+  font-size:11pt;
+  box-shadow:1px;
+  border: 1px solid #1A334C;
+}

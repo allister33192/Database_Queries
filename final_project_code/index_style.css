@@ -1,0 +1,48 @@
+html {
+  background-color:#2EB9B3;
+  font-family:Lucida Sans;
+  font-size:11pt;
+}
+
+table.login-table {
+  font-family:Lucida Sans;
+  border-color:#d3d3d3;
+  border-width:thin;
+  border-style:solid;
+  background-color:#EBEBEB;
+  font-size:11pt;
+}
+
+table.register-table {
+  font-family:Lucida Sans;
+  border-color:#d3d3d3;
+  border-width:thin;
+  border-style:solid;
+  background-color:#EBEBEB;
+  font-size:11pt;
+}
+
+tr {
+  width:95%;
+}
+
+td {
+  padding:10px;
+  vertical-align:top;
+}
+
+input[type="submit"] {
+  background-color:#009F9A;
+  color:#ffffff;
+  font-size:11pt;
+  box-shadow:1px;
+  border: 1px solid #1A334C;
+}
+
+button {
+  background-color:#009F9A;
+  color:#ffffff;
+  font-size:11pt;
+  box-shadow:1px;
+  border: 1px solid #1A334C;
+}
